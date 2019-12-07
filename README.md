@@ -1,6 +1,7 @@
 Deploy-DL-model-using-flask
 ```
 $pip install -r requirements.txt
+$python app.py
 ```
 Did this just ot kill some time
 <br>
