@@ -3,7 +3,7 @@ Deploy-DL-model-using-flask
 $pip install -r requirements.txt
 $python app.py
 ```
-Did this just ot kill some time
+Did this just to kill some time
 <br>
 Snake Identification model (implemented here - https://github.com/Aniket-Pradhan/snek)
 
