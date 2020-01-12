@@ -5,7 +5,7 @@ $python app.py
 ```
 Did this just to kill some time
 <br>
-Snake Identification model (implemented here - https://github.com/Aniket-Pradhan/snek)
+Snake Identification model (implemented here - https://github.com/siddharth17196/snek)
 
 more details -
 https://www.aicrowd.com/challenges/snake-species-identification-challenge
